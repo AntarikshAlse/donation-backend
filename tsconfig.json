@@ -1,0 +1,19 @@
+{ 
+   "compilerOptions":{ 
+      "target":"es6",
+      "moduleResolution":"NodeNext",
+      "module":"NodeNext",
+      "declaration":false,
+      "sourceMap":true,
+      "pretty":true,
+      "outDir":"dist/"
+   },
+   "include":[ 
+      "src/**/*"
+   ],
+   "exclude":[ 
+      "node_modules",
+      "src/.env"
+   ],
+   "compileOnSave":false
+}

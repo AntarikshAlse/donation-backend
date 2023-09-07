@@ -1,0 +1,4 @@
+# ignore fies
+/dist
+/node_modules
+/src/.env
